@@ -78,4 +78,4 @@ Hurrey! Your music bot is live now. Now add this bot to your server and give all
 
 If you have any issues or questions related to this then:
 
-- Text me on discord [here](discordapp.com/users/569286390286778378) is my profile link.
+- Text me on discord [here](https://discordapp.com/users/569286390286778378) is my profile link.
