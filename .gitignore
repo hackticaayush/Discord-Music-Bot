@@ -1,0 +1,19 @@
+####### IGNORING THESE TO BE PUSHED ON GITHUB #######
+
+# vscode settings
+.vscode/
+
+# python project cache
+__pycache__/
+
+# python virtual environments
+.venv/
+
+# environment varibles
+.env
+
+# downloaded songs
+songs/*.webm
+
+#scripts
+test.txt
