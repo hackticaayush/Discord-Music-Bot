@@ -25,6 +25,8 @@ To set up the bot it was made as simple as possible.
 
 - First of all make sure you must have python version 3.9* installed. Use  **`python --version`**  command to check which version of python you have installed.
 
+- Then run `pip install -r requirements.txt` this command to install all required packages.
+
 
 ### `.env` file
 
